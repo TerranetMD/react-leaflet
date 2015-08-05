@@ -35,8 +35,7 @@
     "lodash": "^3.0.0"
   },
   "peerDependencies": {
-    "leaflet": "^0.7.0",
-    "react": "^0.13.0"
+    "leaflet": "^0.7.0"
   },
   "devDependencies": {
     "babel": "^5.6.1",
